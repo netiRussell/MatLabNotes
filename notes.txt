@@ -1,0 +1,13 @@
+"clc" - clear the console
+
+Semicolon surpresses the output => intepreter just moves over to the next line
+
+"format long" - show output in the long format
+
+"help SOME COMMAND" - get info of some command
+
+"clear VARIABLE_NAME" - delete a certain variable from workspace
+
+"pi" and "inf" are already predefined const varibables
+
+Matlab indexing starts with 1 instead of 0
